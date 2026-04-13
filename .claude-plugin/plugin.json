@@ -1,0 +1,14 @@
+{
+  "name": "compos",
+  "version": "0.1.0",
+  "description": "Architectural memory for your codebase — auto-tracks components, relationships, constraints, and risks as you build.",
+  "author": {
+    "name": "Compos"
+  },
+  "mcpServers": {
+    "compos": {
+      "command": "uvx",
+      "args": ["compos-mcp"]
+    }
+  }
+}
