@@ -35,4 +35,4 @@ Compos walks up from your current working directory to find your project root (l
 
 ## Documentation
 
-See the [Compos documentation](https://github.com/fer46/Compos) for full details.
+See the [Compos documentation](https://github.com/fer46/compos) for full details.
