@@ -1,0 +1,13 @@
+{
+  "name": "compos-plugin",
+  "owner": {
+    "name": "Compos"
+  },
+  "plugins": [
+    {
+      "name": "compos",
+      "source": "./",
+      "description": "Architectural memory for your codebase — auto-tracks components, relationships, constraints, and risks as you build."
+    }
+  ]
+}

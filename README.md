@@ -4,13 +4,14 @@ Persistent architectural memory for your codebase. Compos tracks components, rel
 
 ## Install
 
-In Claude Code:
+In Claude Code, add the marketplace and install the plugin:
 
 ```
-/install-plugin github:fer46/compos-plugin
+/plugin marketplace add fer46/compos-plugin
+/plugin install compos@compos-plugin
 ```
 
-**Prerequisite:** [uv](https://docs.astral.sh/uv/) installed on your machine.
+**Prerequisite:** [uv](https://docs.astral.sh/uv/) installed on your machine (the MCP server runs via `uvx compos-mcp`).
 
 ## What's Included
 
